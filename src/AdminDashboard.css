@@ -1,0 +1,51 @@
+body {
+    background: #051021;
+    color:#dddddd;;
+}
+.dashboard-container {
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+
+.stats-container, .creation-container, .feedback-container {
+    margin-bottom: 25px;
+    padding: 15px;
+    border: 1px solid #6495ED;
+    border-radius: 10px;
+}
+
+.creation-container input,
+.creation-container textarea,
+.creation-container select,
+.creation-container button {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #6495ED;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.creation-container button {
+    background-color: #6495ED;
+    color: white;
+    cursor: pointer;
+}
+
+.creation-container button:hover {
+    background-color: #0056b3;
+}
+
+.feedback-container {
+    text-align: center;
+}
+
+.success-message {
+    font-size: large;
+    color: green;
+}
+
+.error-message {
+    font-size: large;
+    color: red;
+}

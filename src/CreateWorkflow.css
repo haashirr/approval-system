@@ -1,0 +1,23 @@
+/* CreateWorkflow.css */
+
+/* Style for success feedback */
+.successFeedback {
+    color: green;
+    border: 1px solid green;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #e6ffe6;
+}
+
+/* Style for error feedback */
+.errorFeedback {
+    color: red;
+    border: 1px solid red;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #ffe6e6;
+}
+
+/* You can add more styles specific to CreateWorkflow component below */
