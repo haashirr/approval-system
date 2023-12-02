@@ -1,9 +1,3 @@
-DEMO - 
-
-
-https://github.com/haashirr/approval-system/assets/103138405/4d891b69-ee69-4e3e-8e3a-f91fb81afc2f
-
-
 
 
 
